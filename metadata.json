@@ -1,0 +1,6 @@
+{
+  "name": "منظومة الترقيم الذكية",
+  "description": "نظام ترقيم المركبات الذكي لقراءة البيانات الجمركية والبطائق وإصدار استمارة 4×6 بصيغة PDF أو صورة.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
